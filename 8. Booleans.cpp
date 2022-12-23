@@ -29,7 +29,5 @@ int main(){
     std::cout << "red_light : " << red_light << std::endl;
     std::cout << "green_light : " << green_light << std::endl;
 
- 
-    
     return 0;
 }
